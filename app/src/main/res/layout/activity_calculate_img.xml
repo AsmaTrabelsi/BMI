@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg4"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".vue.CalculateImg">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="65dp"
+    android:layout_marginBottom="22dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="75dp"
+        android:layout_height="59dp"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="22dp"
+        android:textColor="@color/orange"
+        android:text="Calculate your BMI ..." />
+</LinearLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/taille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="@string/taille"
+        app:boxBackgroundColor="#F8F7F6"
+        app:boxCornerRadiusBottomEnd="33dp"
+        app:boxCornerRadiusBottomStart="33dp"
+        app:boxCornerRadiusTopStart="33dp"
+        app:errorEnabled="true"
+        app:hintTextColor="@color/black"
+
+        app:startIconDrawable="@drawable/ic_baseline_height_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="300dp"
+
+            android:layout_height="55dp"
+            android:inputType="number" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/poids"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="@string/poids"
+        app:boxBackgroundColor="#F8F7F6"
+        app:boxCornerRadiusBottomEnd="33dp"
+        app:boxCornerRadiusBottomStart="33dp"
+        app:boxCornerRadiusTopStart="33dp"
+        app:errorEnabled="true"
+        app:hintTextColor="@color/black"
+
+        app:startIconDrawable="@drawable/ic_baseline_monitor_weight_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:inputType="number" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="@string/age"
+        app:boxBackgroundColor="#F8F7F6"
+        app:boxCornerRadiusBottomEnd="33dp"
+        app:boxCornerRadiusBottomStart="33dp"
+        app:boxCornerRadiusTopStart="33dp"
+        app:errorEnabled="true"
+        app:hintTextColor="@color/black"
+
+        app:startIconDrawable="@drawable/ic_baseline_date_range_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="300dp"
+
+            android:layout_height="55dp"
+            android:inputType="number" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:id="@+id/rf"
+            android:textColor="@color/black"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/femme"
+            android:textSize="22dp"
+            android:checked="true"
+            />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"
+            app:srcCompat="@drawable/ic_baseline_female_24" />
+
+        <RadioButton
+            android:id="@+id/rh"
+            android:textColor="@color/black"
+            android:textSize="22dp"
+            android:layout_width="match_parent" android:layout_marginStart="22dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:layout_weight="1"
+            android:text="@string/homme"
+            />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="9dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_baseline_male_24" />
+    </RadioGroup>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/btnCalculer"
+        android:layout_width="150dp"
+        android:layout_marginEnd="25dp"
+        android:layout_height="42dp"
+        android:layout_gravity="center"
+        android:text="calculate "
+        android:background="@drawable/custom_button"
+        android:clickable="true"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/orange" />
+    <Button
+        android:id="@+id/btnAnnuler"
+        android:layout_width="150dp"
+        android:layout_height="42dp"
+        android:layout_gravity="center"
+        android:text="Cancel"
+        android:onClick="onClickAnnuler"
+        android:background="@drawable/custom_button"
+        android:clickable="true"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/orange" />
+    </LinearLayout>
+
+</LinearLayout>

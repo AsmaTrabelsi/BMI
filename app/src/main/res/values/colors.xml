@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="col1">#174EE8</color>
+    <color name="col2">#F2BC94</color>
+    <color name="col3">#F4AF1B</color>
+    <color name="orange">#ff2001</color>
+    <color name="yellow">#FFC107</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFC107</color>
+    <color name="col4">#8A96B8</color>
+    <color name="green">#1AB353</color>
+</resources>
