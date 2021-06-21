@@ -80,9 +80,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\CHAYMA\Desktop\001.png" />
-                                                <entry key="scalingPercent" value="90" />
-                                                <entry key="trimmed" value="true" />
+                                                <entry key="imagePath" value="C:\Users\CHAYMA\Desktop\logo.jpg.png" />
+                                                <entry key="scalingPercent" value="60" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -110,13 +109,6 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
-                                    </map>
-                                  </option>
-                                  <option name="values">
-                                    <map>
-                                      <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="ffffff" />
-                                      <entry key="backgroundLayerName" value="logo" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -310,7 +302,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/check_circle_outline/baseline_check_circle_outline_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/monitor_weight/baseline_monitor_weight_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -320,9 +312,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="fff8f6" />
-                            <entry key="outputName" value="ic_baseline_check_circle_outline_24" />
-                            <entry key="sourceFile" value="C:\Users\CHAYMA\AndroidStudioProjects\Test" />
+                            <entry key="color" value="dcd9d9" />
+                            <entry key="outputName" value="ic_baseline_monitor_weight_24" />
+                            <entry key="sourceFile" value="C:\Users\CHAYMA\AndroidStudioProjects\BMI" />
                           </map>
                         </option>
                       </PersistentState>

@@ -1,150 +1,410 @@
 [
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_signup.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\account.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\logo.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\logout.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_height_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_height_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_female_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_date_range_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fbig.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\fbig.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_monitor_weight_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_big.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\big.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\male.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fsmall.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\fsmall.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\check.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\height.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\check.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_logout_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\height.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg4.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\bg4.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\check.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_date_range_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_male.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\male.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_outline_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_monitor_weight_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calculate_img.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_calculate_img.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_monitor_weight_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg5.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\bg5.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cal.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\cal.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_small.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\small.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_height.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\height.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg3.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\bg3.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_date_range_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_female_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_female_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\bg2.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_date_range_24.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_date_range_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_monitor_weight_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_monitor_weight_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\account.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resultat.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_resultat.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\custom_button.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\logout.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normal.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\normal.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\bg3.jpg"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_male_24.xml.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_male_24.xml"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_female_24.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\icon.jpg"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fnormal.png.flat",
-        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\fnormal.png"
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_female_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_monitor_weight_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_monitor_weight_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\height.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\height.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_launcher.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_logout.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_monitor_weight_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_monitor_weight_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_female_24.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_female_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_male.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\height.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_account.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_monitor_weight_24.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_monitor_weight_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_height.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\height.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_account.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_check.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_female_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_female_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_female_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_female_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
     }
 ]

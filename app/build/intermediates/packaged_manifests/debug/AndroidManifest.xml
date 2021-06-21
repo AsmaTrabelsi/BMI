@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.test"
+    package="com.example.bmi"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="19"
         android:targetSdkVersion="30" />
 
     <application
@@ -17,40 +17,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Test" >
-        <activity android:name="com.example.test.vue.MainActivity" >
+        android:theme="@style/Theme.BMI" >
+        <activity
+            android:name="com.example.bmi.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.BMI.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.test.vue.CalculateImg" >
+        <activity android:name="com.example.bmi.vue.MainActivity" >
             <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.APP_CALCULATOR" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.example.test.vue.LoginActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.APP_CALCULATOR" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.example.test.vue.SignUp" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.APP_CALCULATOR" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.example.test.vue.Resultat" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.APP_CALCULATOR" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>

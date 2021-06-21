@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.gallery.GalleryFragment">
+
+    <?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg2"
+        android:orientation="vertical"
+        tools:context=".vue.LoginActivity">
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="137dp"
+            android:layout_height="198dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/account" />
+
+        <TextView
+            android:id="@+id/wel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:text="Welecom!"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Login to continue"
+            android:textColor="#393636"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/loginValide"
+            android:layout_width="wrap_content"
+            android:visibility="invisible"
+            android:textColor="#EC0909"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/mail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="@string/mail"
+            app:boxBackgroundColor="#F8F7F6"
+            app:boxCornerRadiusBottomEnd="33dp"
+            app:boxCornerRadiusBottomStart="33dp"
+            app:boxCornerRadiusTopStart="33dp"
+            app:errorEnabled="true"
+            app:errorTextColor="#A1093D"
+            app:hintTextColor="@color/black"
+
+            app:startIconDrawable="@android:drawable/sym_action_email">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="300dp"
+
+                android:layout_height="55dp"
+                android:inputType="textEmailSubject" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/psw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="@string/psw"
+            app:boxBackgroundColor="#F8F7F6"
+            app:boxCornerRadiusBottomEnd="33dp"
+            app:boxCornerRadiusBottomStart="33dp"
+            app:boxCornerRadiusTopStart="33dp"
+            app:endIconMode="password_toggle"
+            app:errorEnabled="true"
+            app:errorTextColor="#A1093D"
+            app:hintTextColor="@color/black"
+
+            app:startIconDrawable="@android:drawable/ic_lock_idle_lock">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="300dp"
+                android:layout_height="55dp"
+                android:inputType="textPassword"
+
+
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <TextView
+            android:id="@+id/fpsw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="60dp"
+            android:gravity="end"
+            android:text="@string/fpsw"
+            android:textColor="@color/orange"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/bLogin"
+            android:layout_width="200dp"
+            android:layout_height="42dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:text="@string/lin"
+            android:background="@drawable/custom_button"
+            android:clickable="true"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/orange" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/ns"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="New user? "
+                android:textSize="17dp" />
+
+            <TextView
+                android:id="@+id/su"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sup"
+                android:clickable="true"
+                android:onClick="clickText"
+                android:textColor="@color/orange"
+                android:textSize="17dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

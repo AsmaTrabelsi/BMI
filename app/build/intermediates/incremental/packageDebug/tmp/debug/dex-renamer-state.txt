@@ -1,7 +1,4 @@
-#Mon Jun 21 21:36:06 GMT+01:00 2021
-base.0=C\:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
+#Tue Jun 15 23:22:14 GMT+01:00 2021
+base.0=C\:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

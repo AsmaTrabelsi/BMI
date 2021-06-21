@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+            "outputFile": "C:\\Users\\CHAYMA\\AndroidStudioProjects\\BMI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\CHAYMA\\.gradle\\caches\\transforms-2\\files-2.1\\0cb9ff486f5edb59977e253831b932c8\\appcompat-1.2.0\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\CHAYMA\\.gradle\\caches\\transforms-2\\files-2.1\\baf0dc31829adf197a572a81727f18f7\\appcompat-1.3.0\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -18,6 +18,23 @@
                         "startOffsets": "264,374,475,586,670,771,886,966,1043,1136,1231,1323,1417,1519,1614,1711,1805,1898,1988,2070,2178,2282,2380,2486,2591,2696,2853,7434",
                         "endColumns": "109,100,110,83,100,114,79,76,92,94,91,93,101,94,96,93,92,89,81,107,103,97,105,104,104,156,100,81",
                         "endOffsets": "369,470,581,665,766,881,961,1038,1131,1226,1318,1412,1514,1609,1706,1800,1893,1983,2065,2173,2277,2375,2481,2586,2691,2848,2949,7511"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CHAYMA\\.gradle\\caches\\transforms-2\\files-2.1\\1602505273d43f41d2f450ba7fa6ad4f\\core-1.5.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7516",
+                        "endColumns": "100",
+                        "endOffsets": "7612"
                     }
                 },
                 {
@@ -54,23 +71,6 @@
                         "startOffsets": "7132,7241",
                         "endColumns": "108,114",
                         "endOffsets": "7236,7351"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CHAYMA\\.gradle\\caches\\transforms-2\\files-2.1\\b234a824af7fd98a5c54fc0522824a91\\core-1.3.1\\res\\values-fa\\values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7516",
-                        "endColumns": "100",
-                        "endOffsets": "7612"
                     }
                 }
             ]
